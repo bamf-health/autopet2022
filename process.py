@@ -13,6 +13,7 @@ import os
 
 import subprocess
 import shutil
+from pathlib import Path
 
 
 # from nnunet.inference.predict import predict_from_folder
@@ -53,7 +54,10 @@ class Autopet(SegmentationAlgorithm):
         self.result_path = "Task001_TCIA/"
         self.nii_seg_file = "TCIA_001.nii.gz"
 
-        pass
+        # make directories
+        Path(self.output_path).mkdir(parents=True, exist_ok=True)
+        Path(self.nii_path).mkdir(parents=True, exist_ok=True)
+        Path(self.result_path).mkdir(parents=True, exist_ok=True)
 
     def convert_mha_to_nii(self, mha_input_path, nii_out_path):  # nnUNet specific
         self.ref_img = sitk.ReadImage(mha_input_path)
