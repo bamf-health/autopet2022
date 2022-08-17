@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AMOS.aux
+The style file: splncs04.bst
+Database file #1: AMOSbib.bib
+You've used 14 entries,
+            2850 wiz_defined-function locations,
+            687 strings with 8477 characters,
+and the built_in function-call counts, 10694 in all, are:
+= -- 875
+> -- 428
+< -- 25
++ -- 178
+- -- 160
+* -- 724
+:= -- 1325
+add.period$ -- 18
+call.type$ -- 14
+change.case$ -- 125
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 903
+empty$ -- 834
+format.name$ -- 173
+if$ -- 2319
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 189
+newline$ -- 48
+num.names$ -- 28
+pop$ -- 329
+preamble$ -- 1
+purify$ -- 107
+quote$ -- 0
+skip$ -- 318
+stack$ -- 0
+substring$ -- 614
+swap$ -- 609
+text.length$ -- 25
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 0
+while$ -- 78
+width$ -- 16
+write$ -- 147

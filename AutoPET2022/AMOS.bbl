@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{arabi2021promise}
+Arabi, H., AkhavanAllaf, A., Sanaat, A., Shiri, I., Zaidi, H.: The promise of
+  artificial intelligence and deep learning in pet and spect imaging. Physica
+  Medica  \textbf{83},  122--137 (2021)
+
+\bibitem{ben200918f}
+Ben-Haim, S., Ell, P.: 18f-fdg pet and pet/ct in the evaluation of cancer
+  treatment response. Journal of Nuclear Medicine  \textbf{50}(1),  88--99
+  (2009)
+
+\bibitem{dirks2022computer}
+Dirks, I., Keyaerts, M., Neyns, B., Vandemeulebroucke, J.: Computer-aided
+  detection and segmentation of malignant melanoma lesions on whole-body
+  18f-fdg pet/ct using an interpretable deep learning approach. Computer
+  Methods and Programs in Biomedicine p. 106902 (2022)
+
+\bibitem{evangelista2020re}
+Evangelista, L., De~Salvo, G.L., Zattoni, F., Novara, G.: Re: Michael s.
+  hofman, nathan lawrentschuk, roslyn j. francis, et al. prostate-specific
+  membrane antigen pet-ct in patients with high-risk cancer before
+  curative-intent surgery or radiotherapy (propsma): A prospective, randomized,
+  multicenter study. lancet 2020; 395: 1208--16. European urology oncology
+  \textbf{3}(5), ~713 (2020)
+
+\bibitem{Isensee}
+Isensee, F., Jaeger, P.F., Kohl, S.A.A., Petersen, J., Maier-Hein, K.H.:
+  nnu-net: a self-configuring method for deep learning-based biomedical image
+  segmentation. Nature Methods  \textbf{18}(2),  203–211 (Feb 2021)
+
+\bibitem{jadvar2015positron}
+Jadvar, H.: Positron emission tomography in prostate cancer: Summary of
+  systematic reviews and meta-analyses. Tomography  \textbf{1}(1),  18--22
+  (2015)
+
+\bibitem{jemaa2020tumor}
+Jemaa, S., Fredrickson, J., Carano, R.A., Nielsen, T., de~Crespigny, A.,
+  Bengtsson, T.: Tumor segmentation and feature extraction from whole-body
+  fdg-pet/ct using cascaded 2d and 3d convolutional neural networks. Journal of
+  digital imaging  \textbf{33}(4),  888--894 (2020)
+
+\bibitem{kinahan2009pet}
+Kinahan, P.E., Doot, R.K., Wanner-Roybal, M., Bidaut, L.M., Armato~III, S.G.,
+  Meyer, C.R., McLennan, G.: Pet/ct assessment of response to therapy: Tumor
+  change measurement, truth data and error. Translational oncology
+  \textbf{2}(4),  223--230 (2009)
+
+\bibitem{moreau2020deep}
+Moreau, N., Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M.,
+  Guillerminet, C., Campone, M., Colombi{\'e}, M., Rubeaux, M., et~al.: Deep
+  learning approaches for bone and bone lesion segmentation on 18fdg pet/ct
+  imaging in the context of metastatic breast cancer. In: 2020 42nd Annual
+  International Conference of the IEEE Engineering in Medicine \& Biology
+  Society (EMBC). pp. 1532--1535. IEEE (2020)
+
+\bibitem{murugesan2021head}
+Murugesan, G.K., Brunner, E., McCrumb, D., Kumar, J., VanOss, J., Moore, S.,
+  Peck, A., Chang, A.: Head and neck primary tumor segmentation using deep
+  neural networks and adaptive ensembling. In: 3D Head and Neck Tumor
+  Segmentation in PET/CT Challenge. pp. 224--235. Springer (2021)
+
+\bibitem{protonotarios2022few}
+Protonotarios, N.E., Katsamenis, I., Sykiotis, S., Dikaios, N., Kastis, G.A.,
+  Chatziioannou, S.N., Metaxas, M., Doulamis, N., Doulamis, A.: A few-shot
+  u-net deep learning model for lung cancer lesion segmentation via pet/ct
+  imaging. Biomedical Physics \& Engineering Express  \textbf{8}(2),  025019
+  (2022)
+
+\bibitem{shen2021evolving}
+Shen, K., Liu, B., Zhou, X., Ji, Y., Chen, L., Wang, Q., Xue, W.: The evolving
+  role of 18f-fdg pet/ct in diagnosis and prognosis prediction in progressive
+  prostate cancer. Frontiers in Oncology  \textbf{11},  683793 (2021)
+
+\bibitem{xue2021multi}
+Xue, Z., Li, P., Zhang, L., Lu, X., Zhu, G., Shen, P., Shah, S.A.A., Bennamoun,
+  M.: Multi-modal co-learning for liver lesion segmentation on pet-ct images.
+  IEEE Transactions on Medical Imaging  \textbf{40}(12),  3531--3542 (2021)
+
+\bibitem{zaidi2008clinical}
+Zaidi, H., Montandon, M.L., Alavi, A.: The clinical role of fusion imaging
+  using pet, ct, and mr imaging. PET clinics  \textbf{3}(3),  275--291 (2008)
+
+\end{thebibliography}
